@@ -59,7 +59,7 @@ jobs:
       #
       - add_ssh_keys:
           fingerprints:
-            - CircleCIのプロジェクト設定画面で登録したSSH鍵のフィンガープリントをここに設定
+            - 68:c8:d5:55:79:5b:d7:33:94:a4:df:8b:1a:af:2a:c7
 
       #
       # deploy:
